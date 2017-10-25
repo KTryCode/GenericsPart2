@@ -16,6 +16,6 @@ public class Main {
 
         Team<BaseballPlayer> baseballTeam = new Team<>("Chicago Cubs");
         baseballTeam.addPlayer(pat);
-        
+
     }
 }
